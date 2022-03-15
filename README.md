@@ -1,7 +1,7 @@
 # Website link
 
 
-<a href="manage3.netlify.app">lol</a>
+<a href="https://manage3.netlify.app">manage3.netlify.app</a>
 
 
 
