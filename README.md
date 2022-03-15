@@ -1,7 +1,7 @@
 # Website link
 
 
-<a href="https://manage3.netlify.app">manage3.netlify.app</a>
+<a href="https://manage3.netlify.app" target="_blank">manage3.netlify.app</a>
 
 
 
